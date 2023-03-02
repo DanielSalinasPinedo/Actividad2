@@ -96,3 +96,12 @@ header .nav-links a{
 header .nav-links a:hover{
     color: red;
 }
+
+footer{
+    background-color: #3498db;
+    padding: 1%;
+}
+
+footer p{
+    margin: 0;
+}
